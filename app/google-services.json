@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "228861596615",
+    "firebase_url": "https://coroutedb-default-rtdb.firebaseio.com",
+    "project_id": "coroutedb",
+    "storage_bucket": "coroutedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228861596615:android:48c6e07cadbaff66167fe2",
+        "android_client_info": {
+          "package_name": "com.yorongrong.coroute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228861596615-32saa54pe4jq2islie1hdb6ov975aqu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yorongrong.coroute",
+            "certificate_hash": "d0c8aaf82151498803df93c0cbb6e32a6dea31dd"
+          }
+        },
+        {
+          "client_id": "228861596615-ak8jvgsjg4nnvpgoridfqv9mj8ruk0mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOzt575BvAoEsTP9wZO3cR3E2EGDcHMc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228861596615-ak8jvgsjg4nnvpgoridfqv9mj8ruk0mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
